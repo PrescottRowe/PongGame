@@ -1,2 +1,2 @@
 # PongGame
-Learning how to use Kivy for mobile dev
+Just a little pong game in python that i made to learn how to make PY GUIs
